@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+        System.out.println("Trying to add new Things");
     }
 
     public void classifyImage(Bitmap image){
